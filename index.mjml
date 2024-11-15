@@ -1,0 +1,156 @@
+<mjml>
+  <mj-head>
+    <mj-title>Me Undies Promotional Email Project</mj-title>
+    <mj-attributes>
+      <mj-body background-color="#D3D3D3">
+        <mj-social-element background-color="#000000" border-radius="20px" icon-size="30px" padding="24px">
+      </mj-social-element>
+    </mj-attributes>
+
+  </mj-head>
+  <mj-body>
+
+    <!-- HEADER -->
+    <mj-section background-color="#333333" padding=" 8px 0">
+      <mj-column>
+        <mj-text align="center" color="#D3D3D3" font-size="20px">
+          Members always get FREE U.S. Shipping
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NYjSi_v9-TX3mTsYuKkS6lfqqgv0-ezeN9vxItcqPDGLvUN6zvTrvOOm8zcqutzGmqPcyVY_dDLMSNvrw7_z708ljvUIe82MJvu_m_o1icLs7NvlUdfslS-bDlBOOkCfaB-wpq5xwNOv6U0mitINE1kePH5c30kMENHB1xux6YWrIoRKdOD2l0g0C7IswtLpkWBm-eZNtBiqBkpkfJHApN-M-kZBxwyU1-UYMAbek2wGuEvKQ=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/GenderNeutral_01-min.gif" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- BANNER -->
+    <mj-section padding="0">
+      <mj-column>
+        <<mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NYS17Q9Ovcmg4Yl1jsO1PB5WKsfee9_eEUmNDEV6UK_lxPxAwOj6cnrYZuNAPBhqbhS-7dZ9sMdTRvD-uOF-0lIrQsTDBVEmdamNbZhmm5kIO_IDvLdMuX5bNn905PTIdKsjJSDTCw-l4pcn5RI8P74T7_ogRskHeQbX287pQx9NSmzDoKTBMl8f5S1n0hEZ2iuUkeej6IlS0bClNwnYF-lCTkSAB7WDkfraEdegN-gdmXGtA=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/GenderNeutral_02-min.jpg" alt="" width="600px" padding="0" />>
+      </mj-column>
+    </mj-section>
+
+    <!-- 50/50 COLUMNS SECTION 1 -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_Nb9E2WZUDUEVhVvT7NlIejTSVgg6Q9xOrhtPe3rnko7RKamgrVh_8MwK9VUvrB7osrh2LKwdG7rczdsfartBenmzUhDaJ9OXU5ZCJziG40Suz1aHEGrJws_D9G7F7nHpChy8Ktc_ytXsRT8er9e4UTtkKJtoC-uyFx3f_NG2bUYI0RM7QU57L-uYT1RN8G4X29sk1Wn0nCyo55WgZ_7FR6ZxuBac0EkGhsipDrcntA02PdFaw=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/GenderNeutral_03-min.jpg" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NY5PAsO4qbQA9nm-N5Jxc-3BXyxJw9LLK9wRO3AGNHfChj-FhqgQ-3LPqTg3-K8gVx1t6WjrZtz_iZ4NiZzUpcklArgMEbSYoqY8bGWOLHLWPToZWrLb2fqNy2GEWdf4Z28pQugAEEVkuernMwjrXLVMH6-on9jsBLz1hrJ4TJO3LUs0hGBeYcyVxFL7pEm2wxzuYJ8TfGy512GI2bO9mch08srJQlXElfnZaFIY9cab_pzeQ=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/GenderNeutral_04-min.jpg" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- 50/50 COLUMNS  SECTION 2 -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NbjdeTsFVj-oIYE0LI32DdxiRGWh9OpmAPP8VwWXr-Gc1tHKb5ZO8YwSl-xofuDHM0DaLMvaw3BcDvLYU1vReTSgZ5TQ0g-ZKH-dpkuZu73yL6afSNKl4DzAaJ675lvB7glzF9nYC9b_gQt7q_Tk_zGxprt8Juleu9_MxeFggYp9SezcxpPyB4hibr0q5s2VeU-UOVU4YaDe2Z6Xt-mt8kX4XG9nDkZkyC2WxXbEm4KPD9O2Q=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/GenderNeutral_05-min.jpg" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_Nb-6GrtX7qScOUchxx-GGOw4R9VIr8yQ92N0lf6COHiP58-OvucunNNKST7SIh1h8gZePupjLYj6oGcrXXvmQjoLWUzpNsiIV_vQMjlR2r6PkqFLvu20mqxkG1-qUOO3PgVs5Nh9hLKny3Is5-OhIrniYraroQYycjreClx-3Ey7jn5d1JkS_ru26itK81rvYrNw0ZjU339vulIoc6XU6jk0dlHKvGUf6-vKg04iHnDdO-KFg=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/GenderNeutral_06-min.jpg" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- 50/50 COLUMNS SECTION 3 -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NbhaJaDtws26hK2BH84sF9lGr9wN63hDmPq87g3JhMwwP6DbuiCD86I3weLnnnDnxt9aZGneKg1Os-uM74yE8piCCHBSmml6aM85HmyQfxpHdtc_6d4_CztASUdywACk6nYssxZPHOUD_rRQX0XbDnUgI9UNbhjBAN2Tza7zmbo2EwPFwfaGYSu26OjqlyrkD3om5F3Fdu9isv-F_N6Y0vQqQPKQdHGTY4sHq20ctdXzARHzw=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/GenderNeutral_07-min.jpg" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_Nb-JszPBKkxRhSj-IIOXQ7g7e9x8lt-CJuVtCqryGN_3mkCvmbL-p_asHwxbtBMkvOMr08SvTMlbKTd5lg-ZAdRetAV28CFe3pAo-3Rpr5Ja2-mBYQlL8a5lE_pLy1nZOnpI8IlgcEVNC7BJHGktaX0GIHvRXH1AvTkLuf55CZjrDSHab4Q46oSUNrV6jtJE7aZhjZcZQHorhozEXGPU42TzmaJnoPGeVGp_8H8a2maNucbbg=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/GenderNeutral_08-min.jpg" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- BANNER 2 -->
+    <mj-section padding="0">
+      <mj-column>
+        <<mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NasbqS2uT8lzRZOKS1Gv7rWfR77aHGzrBfTBKe-mtSngkV7tJX8sthRpdG9zyD7ZZLI7vMbs9DdNsJCCTJeZa93WMWuEUAG_2S1OuzPH4J1lknVHvaTX7UQzETVNS-fklqn_bwcaJTK1UBnArIZObCHFYp__eEgVBJ9WoEHR3QOGSYj9uKCySLE-wgNxNC1KNQuE0F1S5RwKgqllS0n75H3Im8NQ2lLK9ylhFdEi-2grhcxWQ=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/GenderNeutral_09-min.jpg" alt="" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- PROMO SECTION -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NZ7ZGBbEnxmkpW7eWyGKnOUo1Ge4YJUQVeZTBNaB2e9sbCw-2zkTYlMUr991PaqU0DNh91gpa3xZc7Owzb5EatsGQ0DNXGc6nP7H0h3h6MFxm_heQKFeBXpxj6noA99Slzf-RnfPv-nwueZHIaBYCk40jIH6-PTBeOOebrSa-3vapR5I2lw3JTj6JpOJCnS2F0fPMYqBstwdU6-nkT8WFOy7KcCJwLAReqeSQ=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/image%20273.png" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NZyNhidvXKJLUXPDO_gWFf88_lmQ6dA64iWrsrrjexjn2HaIYz8mLQdI36ppkuNcPzNLATShFYzCU6xpNiWPv36wbJK9F99zQTR2UjFZutcSDxkl_1ex2p04UuFjVL1fqpD0WjKY9bK4rM5PRmWztBvPSgAHRJ_Bc9qYBClISu_YnJhbFYsymxxBN9yC2E4o-oePrAgEx7SuXs8VSs7TwNhtXalQXGQAX6GqA=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/image%20274.png" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NZQDBXus1iC4Vi5bJnIruvbtlHQxHvvdgmXym3dMEPnFmud057pxddu40IW7MA8eTS_q51pVuLcrmfJxaR2HIo98gCCCcfxX7l92F_YoE2nXSIyxvEVjRuSgx3AH-ulsbTpCgmBJlpPgAmDXqR1RHSamD8ccTWVnVXgLN-HYS3Q4Q_Eh71oRm2V6f1Lc6TwntuVe7hWIa4t092M9kBBKZhlJ7mjk8a0th6dDg=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/image%20275.png" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- LAST PROMO -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NbjllcSGShrziz4b66ltGEkkjCuoFVkOlzmlgG4DsQGte0Lr8jsFBc3Y0P2tFtqmbsn8ZelEGjm-HEA8biXrVZoULYdDVKIldV_-7AK5PQHa9_K5hl7Lc_cs8K0TyCfVnxzlWJXPzr710N-lgEUYL9LpTkANAPa9F-7Sk5aqnRpnJ2UuNLXlv1n0laetOMDES0Mfe9cI_dDxpo63p9WUCkb0O9STskUvT5sigka4Ego6zI_O5igCF6lIxrS0xbbVY7RsBfZH_mjqactRF1g6S4=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/b2563530a13e4e6285d41549a1418768/1024_BFCMFriendsandFamily_LaunchEmail_DG_Hero_11.gif" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- BANNER 2 -->
+    <mj-section background-color="#FFFBF2" padding="60px 0 20px 0">
+      <mj-column>
+        <mj-text align="center" color="#393939" font-size="20px">
+          Come play...
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- SOCIAL ICONS -->
+    <mj-section background-color="#FFFBF2" padding="0">
+      <mj-column padding="0">
+        <mj-social icon-size="40px" mode="horizontal">
+
+          <mj-social-element padding="0 20px" background-color="#000000" border-radius="50px" name="instagram">
+          </mj-social-element>
+          <mj-social-element padding="0 20px" background-color="#000000" border-radius="50px" name="facebook">
+          </mj-social-element>
+          <mj-social-element padding="0 20px" background-color="#000000" border-radius="50px" name="twitter">
+          </mj-social-element>
+          <mj-social-element padding="0 20px" background-color="#000000" border-radius="50px" name="youtube">
+          </mj-social-element>
+
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-section background-color="#FFFBF2">
+      <mj-column>
+        <mj-text align="center" color="#393939" font-size="18px">
+          &copy;2024 MeUndies, Inc. All Rights Reserved.<br><br>9534 Jefferson Blvd. Los Angeles, CA 90232 USA
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- POLICIES -->
+    <mj-section background-color="#FFFBF2">
+      <mj-column width="200px">
+        <mj-text align="center" font-size="16px" padding="0">
+          <a href="#" style="color:#393939;">Privacy Policy</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px">
+        <mj-text align="center" font-size="16px" padding="0">
+          <a href="#" style="color:#393939;">Update Email Preferences</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px">
+        <mj-text align="center" font-size="16px" padding="0">
+          <a href="#" style="color:#393939;">Help</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- PROMO SECTION -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NaUjKvHw57A_GkxaAKM5ySwLN1uWLEQ_SkZQOE3aoqQpipCpLXu5cBT4UZ1X559NW1yFYCeSrpwgwZMKb8xgxwbGPtLQOQ1iJ7nqSpX0_PQr28_y8LB_x4cqL7_xm26zFRmsvOxKE4zQfpc9A=s0-d-e1-ft#https://library.iterable.com/2389/11346/ec1924364967438a8999248f6c4b06ea-image-161.png" alt="hero image" width="600px" padding="0" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
