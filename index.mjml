@@ -2,7 +2,7 @@
   <mj-head>
     <mj-title>Me Undies Promotional Email Project</mj-title>
     <mj-attributes>
-      <mj-body background-color="#D3D3D3">
+      <mj-body background-color="#D3D3D2">
         <mj-social-element background-color="#000000" border-radius="20px" icon-size="30px" padding="24px">
       </mj-social-element>
     </mj-attributes>
